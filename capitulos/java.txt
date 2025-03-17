@@ -1,1 +1,1 @@
-Java es un lenguaje orientado a objetos
+Java es un lenguaje orientado a objetos y fuertemente tipado
